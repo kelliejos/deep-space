@@ -1,9 +1,5 @@
 # deep-space
-
-try again
-
-
-Edit again and again
+Edit again
 
 fa la la la la la la la la la la la la la la la la la la la la la la la la
 
